@@ -21,6 +21,10 @@ With the rapid change in technology, society has reached a point where the very 
 * 7.4V Battery
 * 5V Power Bank
 * Raspberry Pi 3
+* Playstation Dualshock 4 Controller
 
+## Software/Packages
+* Pygame
+* ds4drv
 
 
