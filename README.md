@@ -26,5 +26,7 @@ With the rapid change in technology, society has reached a point where the very 
 ## Software/Packages
 * Pygame
 * ds4drv
+* Python 3 (IDLE)
+
 
 
