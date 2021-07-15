@@ -1,5 +1,10 @@
 # Object Avoiding RC Car
 
-This is a prototype RC car made to avoid objects or stop when detecting an obstical in front of it.
+# Table of Contents
+* Introduction
+* Parts List
+* Features
 
 ![Alt Text](/images/RC_car.jpg)
+
+
