@@ -10,4 +10,17 @@ With the rapid change in technology, society has reached a point where the very 
 
 ![Alt Text](/images/RC_car.jpg)
 
+# Parts List
+* RC Car Chassis
+* 7.4V DC Motor
+* Positional Rotation Servo
+* 2 Motor Drivers
+* 3 Ultrasonic Distance Sensors
+* DC-DC Adjustable Buck Converter
+* Mini Solderless Breadboards
+* 7.4V Battery
+* 5V Power Bank
+* Raspberry Pi 3
+
+
 
