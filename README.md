@@ -29,6 +29,12 @@ With the rapid change in technology, society has reached a point where the very 
 * ds4drv
 * Python 3 (IDLE)
 
+# Features
+* Bluetooth connectivity with Dualshock 4 Wireless Controller
+* Able to avoid objects
+* Easily programmable
+* Low power device
+
 # Setup
 
 ### Schematics
