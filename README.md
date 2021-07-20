@@ -35,6 +35,7 @@ With the rapid change in technology, society has reached a point where the very 
 
 This image shows how everything is connected overall.
 ![Alt Text](/images/RC_car_schematic_1.png)
+
            - Figure 1.1 Overall Connections
 
 
