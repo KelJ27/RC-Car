@@ -32,10 +32,10 @@ With the rapid change in technology, society has reached a point where the very 
 # Setup
 
 ### Schematics
+Below, the first image shows how everything is connected overall. As shown, the Raspberry Pi is connected to the motor drivers; the first driver is for the DC motor, and the second is for the servo. The sensors are also shown to be connected to the pi in which each needs their own power strip.
 
-This image shows how everything is connected overall.
 ![Alt Text](/images/RC_car_schematic_1.png)
 
-           - Figure 1.1 Overall Connections
+- Figure 1.1 Overall Connections
 
 
